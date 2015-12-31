@@ -1,6 +1,6 @@
 {
   "name": "gulp-drop-comments",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "drop-comments for gulp",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/shinate/gulp-drop-comments#readme",
   "dependencies": {
-    "drop-comments": "^1.0.3",
+    "drop-comments": "^1.0.4",
     "through2": "^2.0.0"
   }
 }
